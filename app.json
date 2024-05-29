@@ -4,24 +4,38 @@
     "slug": "music-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "Montserrat-Black": "./src/fonts/Montserrat-Black.ttf"
+        }
+      ]
+    ],
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#002D62"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/newleaf.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vijay_b21.musicapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2ceba343-7a86-4c67-8750-ac4a94aa9672"
+      }
     }
   }
 }
