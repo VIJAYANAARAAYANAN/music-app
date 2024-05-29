@@ -25,7 +25,7 @@ const Home = ({ navigation }) => {
 
   const renderItem = ({ item }) => (
     <Pressable style={styles.itemContainer} 
-    //onPress={() => handleMusicPress(item)}
+    onPress={() => handleMusicPress(item)}
     >
       <Image source={{ uri: item.imageUrl }} style={styles.image} />
       <View style={styles.textContainer}>
@@ -33,7 +33,6 @@ const Home = ({ navigation }) => {
         <Text style={styles.artist}>{item.artist}</Text>
         <Text style={styles.duration}>{item.duration}</Text>
       </View>
-    
     </Pressable>
   );
 
@@ -74,7 +73,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
-    marginTop: 40,
+    marginTop: "15%",
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',

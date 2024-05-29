@@ -9,14 +9,7 @@
         "fileKey": "melody",
         "imageUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/A10301A0005280683P_20240420142222490/1713616807136/resources/A10301A0005280683P.jpg"
     },
-    {
-        "title": "Song 1",
-        "artist": "Yuvan Shankar Raja",
-        "album": "College Super Star",
-        "duration": "3:17",
-        "fileKey": "college_superstars",
-        "imageUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/A10301A00052884297_20240503134339042/1714737922934/resources/A10301A00052884297.jpg"
-    },
+   
     {
 
         "title": "Song 2",
@@ -50,6 +43,23 @@
         "fileKey": "vintage_love",
         "imageUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/A10301A00052884297_20240503134339042/1714737922934/resources/A10301A00052884297.jpg"
     },
+   
+    {
+        "title": "Song 8",
+        "artist": "SriRam",
+        "album": "Agayya-Nelangili",
+        "duration": "4.14",
+        "fileKey": "Agayya_Nelangili",
+        "imageUrl": "https://c.saavncdn.com/611/99-Songs-Tamil-Original-Motion-Picture-Soundtrack--Tamil-2021-20210325184848-500x500.jpg"
+    },
+    {
+        "title": "Song 1",
+        "artist": "Yuvan Shankar Raja",
+        "album": "College Super Star",
+        "duration": "3:17",
+        "fileKey": "college_superstars",
+        "imageUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/A10301A00052884297_20240503134339042/1714737922934/resources/A10301A00052884297.jpg"
+    },
     {
         "title": "Song 7",
         "artist": "Aadhey",
@@ -59,12 +69,20 @@
         "imageUrl": "https://masstamilan.dev/i/wp/pt-sir-tamil-2024-nakkal-pudichavan.webp"
     },
     {
-        "title": "Song 8",
-        "artist": "SriRam",
-        "album": "Agayya-Nelangili",
+        "title": "Song 9",
+        "artist": "Vijay Yesudas",
+        "album": "Avalum-Nanum",
         "duration": "4.14",
-        "fileKey": "Agayya_Nelangili",
-        "imageUrl": "https://c.saavncdn.com/611/99-Songs-Tamil-Original-Motion-Picture-Soundtrack--Tamil-2021-20210325184848-500x500.jpg"
+        "fileKey": "Avalum_Nanum",
+        "imageUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/1466420336/srch_pplmumbai_IND291600664.jpg"
+    },
+    {
+        "title": "Song 10",
+        "artist": "A R Rahman",
+        "album": "Mental-Manadhil",
+        "duration": "3.25",
+        "fileKey": "Mental_Manadhil",
+        "imageUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/update/1603371311484/srch_sonymusic_A10328E0007329915K.jpg"
     }
     ]
 
